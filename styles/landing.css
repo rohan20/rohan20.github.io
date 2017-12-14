@@ -251,6 +251,10 @@ body {
     background-image: url(../images/icon_email.svg)
 }
 
+.icons .quora::after {
+    background-image: url(../images/icon_quora.svg)
+}
+
 .icons .stackoverflow::after {
     background-image: url(../images/icon_stackoverflow.svg)
 }
