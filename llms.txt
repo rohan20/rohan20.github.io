@@ -1,0 +1,10 @@
+# Rohan Taneja
+
+Developer portfolio and public professional links.
+
+## Public pages
+
+- [Rohan Taneja](https://www.rohantaneja.com/index.md)
+
+The HTML pages are authoritative. Markdown is generated from the same public content.
+

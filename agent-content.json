@@ -1,0 +1,17 @@
+{
+  "name": "Rohan Taneja",
+  "description": "Developer portfolio and public professional links.",
+  "origin": "https://www.rohantaneja.com",
+  "site_directory": ".",
+  "preview": false,
+  "preserve_llms": false,
+  "pages": [
+    {
+      "file": "index.html",
+      "path": "/",
+      "markdown": "/index.md",
+      "title": "Rohan Taneja"
+    }
+  ]
+}
+
